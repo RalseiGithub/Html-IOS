@@ -3,3 +3,4 @@
 2 add github pages
 3 upload html
 4 download as webarchive there
+(doesnt work but could serve as a startign point)
